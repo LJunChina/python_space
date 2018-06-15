@@ -20,4 +20,12 @@ applePrice = 3.5
 weight = 7.5
 print(applePrice * weight)  # 如果出现第二次 变量 = ？表示赋值
 
+# input("请输入你的身高：%d")
+
+name = "廖俊"
+print("我的名字是%s"%name)
+
+print('I\'m ok')
+
+print(r"I'm ok")
 
